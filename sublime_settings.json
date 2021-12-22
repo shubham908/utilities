@@ -1,0 +1,9 @@
+{
+  "font_face": "<Your fav font>",
+  "font_size": 11,
+  "scroll_past_end": true,
+  "caret_style": "smooth",
+  "theme": "Default.sublime-theme",
+  "color_scheme": "Monokai.sublime-color-scheme",
+  "font_options": ["no_italic"]
+}
